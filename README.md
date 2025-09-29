@@ -5,11 +5,12 @@ proyectos y mis intereses.
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
+* [Redes Sociales]
 ## Información personal
 * Nombre: Christian Gabriel Peláez Ávila
 * Ocupación: Estudiante de Ingenieria en ciencias de la Computación
 * Lugar de residencia: Guayaquil/Ecuador
-* Sitio web: https://gabriel12305.github.io/gabriel12305/
+* Sitio web: [https://gabriel12305.github.io/gabriel12305/](https://gabriel12305.github.io/gabriel12305/)
 ## Experiencia
 * Ayudante de Cátedra - Estructuras de Datos
 ## Proyectos
@@ -17,4 +18,5 @@ proyectos y mis intereses.
 ## Intereses
 * Data Science
 ## Redes Sociales
-* [**Linkedin:**](https://www.linkedin.com/in/gabriel-peláez-a28917297) 
+* [**Linkedin**](https://www.linkedin.com/in/gabriel-peláez-a28917297)
+* [**Instragram**](https://www.instagram.com/gabriel_pelaez05)
