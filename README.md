@@ -6,25 +6,15 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
-* Sitio web: [Tu sitio web]
+* Nombre: Christian Gabriel Peláez Ávila
+* Ocupación: Estudiante de Ingenieria en ciencias de la Computación
+* Lugar de residencia: Guayaquil/Ecuador
+* Sitio web: https://gabriel12305.github.io/gabriel12305/
+## Experiencia
+* Ayudante de Cátedra - Estructuras de Datos
 ## Proyectos
 * [Lista de tus proyectos]
 ## Intereses
-* [Lista de tus intereses]
-<!--
-**gabriel12305/gabriel12305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Data Science
+## Redes Sociales
+* [**Linkedin:**](https://www.linkedin.com/in/gabriel-peláez-a28917297) 
