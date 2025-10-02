@@ -18,7 +18,7 @@ Actualmente soy **ayudante de investigación**, donde aplico temas de **Machine 
 
 ## Información personal
 * Nombre: Christian Gabriel Peláez Ávila  
-* Ocupación: Estudiante de Ingeniería en Ciencias de la Computación | Ayudante de Investigación  
+* Ocupación: Estudiante de Ingeniería en Ciencias de la Computación - Ayudante de Investigación  
 * Lugar de residencia: Guayaquil, Ecuador  
 
 ---
